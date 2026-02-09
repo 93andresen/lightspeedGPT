@@ -4,3 +4,4 @@ concurrent-futures>=3.1.1
 tqdm>=4.62.3
 argparse>=1.4.0
 logging>=0.5.1.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
